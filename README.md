@@ -14,3 +14,5 @@ Template:
   
 <li>Additional context:</li>
 
+To get started, [click here to submit an issue](https://github.com/NforceSSP/serenbmrp-issues/issues/new/choose).
+
